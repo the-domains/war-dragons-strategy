@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[War Dragons Strategy]]></title>
         <description><![CDATA[War Dragons Strategy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/war-dragons-strategy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 07:08:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Dec 2015 07:12:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/war-dragons-strategy/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to War Dragons Strategy!]]></title>
+            <description><![CDATA[<article><h1>Welcome to War Dragons Strategy!</h1><p>Welcome to War Dragons Strategy, where we provide you with all the latest information for the War Dragons App (available on iTunes at https://itunes.apple.com/au/app/war-dragons/id958763157?mt=8)</p></article>]]></description>
+            <link>https://thegrid.ai/war-dragons-strategy/welcome-to-war-dragons-strategy/index.html</link>
+            <guid isPermaLink="false">2593e9a2-55a3-443c-bc30-92bd6cfb6bba</guid>
+            <pubDate>Wed, 23 Dec 2015 07:11:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What Towers To Use]]></title>
-            <description><![CDATA[<article><h1>What Towers To Use</h1><p>The best defense for a base is one that has no specific or obvious weakness. I'm going to tell you, from my own experience, which towers to pick towers for a base that will stand up to a variety of attack styles and dragons. An attack can be tailored to the base because the attacker...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db1cbb2d86a964aca0ec063bace356c039438f82.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>What Towers To Use</h1><p>The best defense for a base is one that has no specific or obvious weakness. I'm going to tell you, from my own experience, which towers to pick towers for a base that will stand up to a variety of attack styles and dragons. An attack can be tailored to the base because the attacker...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dac125ca709c7d748483baa47755001c94e0f9b3.jpg"></article>]]></description>
             <link>http://powderedtoastblog.com/what-towers-to-use/</link>
             <guid isPermaLink="false">7fb07959-7810-42f8-a640-4a5a9b794335</guid>
             <pubDate>Wed, 23 Dec 2015 07:07:26 GMT</pubDate>
