@@ -17,8 +17,8 @@ keywords:
   - row
   - lightning
 description: "The best defense for a base is one that has no specific or obvious weakness. I'm going to tell you, from my own experience, which towers to pick towers for a base that will stand up to a variety of attack styles and dragons. An attack can be tailored to the base because the attacker..."
-datePublished: '2015-12-26T04:41:01.388Z'
-dateModified: '2015-12-26T04:40:50.316Z'
+datePublished: '2015-12-26T04:47:56.117Z'
+dateModified: '2015-12-26T04:47:42.734Z'
 author:
   - name: mattdgold
     url: 'https://powderedtoastblog.com/author/mattdgold/'
@@ -38,6 +38,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c49a910-3511-4082-b586-01e9d6b2582b.png)
-
 <article style=""><h1>What Towers To Use</h1><p>The best defense for a base is one that has no specific or obvious weakness&amp;period; I'm going to tell you&amp;comma; from my own experience&amp;comma; which towers to pick towers for a base that will stand up to a variety of attack styles and dragons&amp;period; An attack can be tailored to the base because the attacker&amp;period;&amp;period;&amp;period;</p><img src="https://s0.wp.com/i/blank.jpg" /></article>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c49a910-3511-4082-b586-01e9d6b2582b.png)
