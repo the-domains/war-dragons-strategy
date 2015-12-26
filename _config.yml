@@ -1,6 +1,6 @@
 name: War Dragons Strategy
 favicon: null
-layout_spectrum: 0.673573553096503
+layout_spectrum: 0.48884
 typography_spectrum: 0.14967582165263593
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.17098013288341463
-  lightness: 0.26301107089966536
-  saturation: 0.8556025945581496
-  rhythmicContrast: 0.2843786331359297
+  brandStrength: 0.8125
+  lightness: 1
+  saturation: 0.0625
+  rhythmicContrast: 1
 purpose: []
